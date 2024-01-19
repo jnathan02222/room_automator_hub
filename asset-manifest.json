@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/room_automator_hub/static/css/main.fd5a885a.css",
+    "main.js": "/room_automator_hub/static/js/main.caefba0a.js",
+    "static/js/787.0f8d78ff.chunk.js": "/room_automator_hub/static/js/787.0f8d78ff.chunk.js",
+    "index.html": "/room_automator_hub/index.html",
+    "main.fd5a885a.css.map": "/room_automator_hub/static/css/main.fd5a885a.css.map",
+    "main.caefba0a.js.map": "/room_automator_hub/static/js/main.caefba0a.js.map",
+    "787.0f8d78ff.chunk.js.map": "/room_automator_hub/static/js/787.0f8d78ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd5a885a.css",
+    "static/js/main.caefba0a.js"
+  ]
+}
